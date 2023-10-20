@@ -5,7 +5,7 @@ arXiv version: [https://arxiv.org/abs/2305.02321](https://arxiv.org/abs/2305.023
 
 ## Data
 
-Download here: TBD
+Download here: [Harvard Dataverse link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FSHEVDA)
 
 We release our generated original and replaced summaries for the models [PreSumm, PEGASUS, BART, ProphetNet].
 
