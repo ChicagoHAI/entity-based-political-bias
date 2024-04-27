@@ -14,7 +14,7 @@ Note that we cannot release full article texts; see [https://www.english-corpora
 
 
 
-For each $e_1 \in ["Trump", "Biden"]$, there are two data files:
+For each $e_1 \in$ [Trump, Biden], there are two data files:
 - `data` (e.g., "{e_1}_public_summaries.jsonl.gz")
     - a list of dictionaries, where each element corresponds to an article and its corresponding summary versions
     - each row contains the following fields:
