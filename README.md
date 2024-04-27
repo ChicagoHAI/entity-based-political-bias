@@ -1,7 +1,8 @@
 # entity-based-political-bias
-Data and code for the EMNLP 2023 Findings paper "Entity-Based Evaluation of Political Bias in Automatic Summarization" by Karen Zhou and Chenhao Tan.
+Data and code for the EMNLP 2023 Findings paper ["Entity-Based Evaluation of Political Bias in Automatic Summarization"](https://aclanthology.org/2023.findings-emnlp.696/) by Karen Zhou and Chenhao Tan. 
 
-arXiv version: [https://arxiv.org/abs/2305.02321](https://arxiv.org/abs/2305.02321)
+[[ACL anthology vers](https://aclanthology.org/2023.findings-emnlp.696/)]
+[[arXiv vers](https://arxiv.org/abs/2305.02321)]
 
 ## Data
 
@@ -64,7 +65,17 @@ for source in source_names:
 
 ## Citation
 ```
-TBD
+@inproceedings{zhou-tan-2023-entity,
+    title = "Entity-Based Evaluation of Political Bias in Automatic Summarization",
+    author = "Zhou, Karen  and
+      Tan, Chenhao",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.696",
+    doi = "10.18653/v1/2023.findings-emnlp.696",
+}
 ```
 
 Contact: karenzhou@uchicago.edu 
